@@ -5,6 +5,8 @@ Chrome Extension from https://www.offidocs.com to create and edit videos online.
 It is an integration with an OpenShot instance, which is a free and open-source video editor . 
 It supports commonly used video codecs that are supported by FFmpeg like WebM (VP9), AVCHD (libx264), HEVC (libx265) and audio codecs like mp3 (libmp3lame) and aac (libfaac). The program can render MPEG4, ogv, Blu-ray and DVD video, and Full HD videos for uploading to the internet video websites.
 
+Weapp available at https://www.offidocs.com/index.php/desktop-online-video-audio-apps/openshot-online-video-editor
+
 Video demo:
 
 [![Openshot](http://img.youtube.com/vi/LwbmyuV2_X0/0.jpg)](http://www.youtube.com/watch?v=LwbmyuV2_X0 "OpenShot")
